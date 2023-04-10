@@ -24,4 +24,4 @@ $ ssh cs15lsp23<unique identifier>@ieng6.ucsd.edu
 When the SSH command is typed into the local computer terminal, it should look like the following:
 ![Image]()
 When the SSH command is typed into the VScode terminal, it should look like the following:
-![Image]()
+![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/b979be79c2211cfd13a71c7c105b7588fad7e06a/Screenshot%202023-04-06%20at%208.49.03%20AM.png)
