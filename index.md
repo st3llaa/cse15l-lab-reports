@@ -20,5 +20,6 @@ $ ssh cs15lsp23<unique identifier>@ieng6.ucsd.edu
 - replace the <unique identifier> with the coresonding letters from you previously found course specific account. (Note: the $ isn't part of the command, it only signifies a command)
 *If this is your first time connecting to the server you will likely recieve a message about authenticity of the host 'ieng6...' you can say yes to this message.
 When the SSH command is typed into the local computer terminal, it should look like the following:
-
+![]()
 When the SSH command is typed into the VScode terminal, it should look like the following:
+![]()
