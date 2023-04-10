@@ -27,9 +27,11 @@ When the SSH command is typed into the VScode terminal, it should look like the 
 This means that your remote computer is connected to the CSE basement, therefore commands run on your computer terminal will be run on that CSE basement computer. Your computer is the **client** and the CSE basement computer is the **server** based on the above connection.
   
   # Running Commands
+  ---
   Next we will try running some commands in the terminal. Here are some listed to try:
-  ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/e838996dd0a8ad9318e8ce0fd7135112a9ed1ffd/Screenshot%202023-04-10%20at%204.27.06%20PM.png)
-  
+  ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/ad801654c140a488909fd7c5d935ba06bcfe651b/commands.png)
+  ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/ad801654c140a488909fd7c5d935ba06bcfe651b/commandFromLab.png)
+  ---
+  ---
   When completing the asignment I tried the following commands chosen from the lab write up suggestions:
-  ![Image]()
   ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/4337cf6214ef5273fb95fb82a963089f3d46429a/Screenshot%202023-04-06%20at%208.58.15%20AM.png)
