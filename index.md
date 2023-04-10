@@ -1,18 +1,18 @@
 # **Remote Access: SSH, accessing course specific account**
 ---
-1. Installing IDE (integrated development enviroment)
+1. **Installing IDE** (integrated development enviroment)
 In this class we use Visual Code Studio (VScode) as our IDE. To install, following the instructions on the [VSCode website](https://code.visualstudio.com/). 
 Installation differs depending on operating system (windows --> PCs, macOS --> macs). After downloading, open the application. The windown should look like the one below:
 (Note: the background color is a mattter of preference)
 ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/846cde768814ebeff7d5f239874a574cc3aee335/Screenshot%202023-04-06%20at%208.35.07%20AM.png)
 
-2. Accessing course specific account
+2. **Accessing course specific account**
 In this tutorial, we will be connecting to a reomte computer through VScode and the local computer terminal to connect over the internet. 
 In order to SSH into the ieng6 server, you need to access your course specific account. This can be found [here](https://sdacs.ucsd.edu/~icc/index.php).
 Once you have your account username, which should look something like cs15l<quarter abriviation><last two digits of year><unique identifier>, you will need to reset the password. 
 Follow this [tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view). 
 
-3. Remotely connecting
+3. **Remotely connecting**
 - Next we need to SSH into the computers in the CSE basement. To do this open a terminal in VSCode (ctrl/command + ' alternatively terminal --> new terminal from the menu bar)
 - In the terminal in VSCode, type the command: 
 ```
@@ -24,3 +24,8 @@ When the SSH command is typed into the local computer terminal, it should look l
 ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/57be7d0137df9daef2ac1b7f3d49742685beaa20/Screenshot%202023-04-10%20at%204.27.06%20PM.png)
 When the SSH command is typed into the VScode terminal, it should look like the following:
 ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/b979be79c2211cfd13a71c7c105b7588fad7e06a/Screenshot%202023-04-06%20at%208.49.03%20AM.png)
+This means that your remote computer is connected to the CSE basement, therefore commands run on your computer terminal will be run on that CSE basement computer. Your computer is the **client** and the CSE basement computer is the **server** based on the above connection.
+  
+  # Running Commands
+  
+  ![Image]()
