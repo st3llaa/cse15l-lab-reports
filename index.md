@@ -4,7 +4,6 @@
 In this class we use Visual Code Studio (VScode) as our IDE. To install, following the instructions on the [VSCode website](https://code.visualstudio.com/). 
 Installation differs depending on operating system (windows --> PCs, macOS --> macs). After downloading, open the application. The windown should look like the one below:
 (Note: the background color is a mattter of preference)
-
 ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/846cde768814ebeff7d5f239874a574cc3aee335/Screenshot%202023-04-06%20at%208.35.07%20AM.png)
 
 2. Accessing course specific account
@@ -22,6 +21,6 @@ $ ssh cs15lsp23<unique identifier>@ieng6.ucsd.edu
 - replace the <unique identifier> with the coresonding letters from you previously found course specific account. (Note: the $ isn't part of the command, it only signifies a command)
 *If this is your first time connecting to the server you will likely recieve a message about authenticity of the host 'ieng6...' you can say yes to this message.
 When the SSH command is typed into the local computer terminal, it should look like the following:
-![Image]()
+![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/57be7d0137df9daef2ac1b7f3d49742685beaa20/Screenshot%202023-04-10%20at%204.27.06%20PM.png)
 When the SSH command is typed into the VScode terminal, it should look like the following:
 ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/b979be79c2211cfd13a71c7c105b7588fad7e06a/Screenshot%202023-04-06%20at%208.49.03%20AM.png)
