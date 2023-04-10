@@ -4,6 +4,7 @@
 In this class we use Visual Code Studio (VScode) as our IDE. To install, following the instructions on the [VSCode website](https://code.visualstudio.com/). 
 Installation differs depending on operating system (windows --> PCs, macOS --> macs). After downloading, open the application. The windown should look like the one below:
 (Note: the background color is a mattter of preference)
+[Image](Screenshot 2023-04-06 at 8.35.07 AM.png)
 
 2. Accessing course specific account
 In this tutorial, we will be connecting to a reomte computer through VScode and the local computer terminal to connect over the internet. 
