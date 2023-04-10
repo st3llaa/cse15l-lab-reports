@@ -14,9 +14,9 @@ Follow this [tutorial](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6H
 3. Remotely connecting
 - Next we need to SSH into the computers in the CSE basement. To do this open a terminal in VSCode (ctrl/command + ' alternatively terminal --> new terminal from the menu bar)
 - In the terminal in VSCode, type the command: 
-'''
+```
 $ ssh cs15lsp23<unique identifier>@ieng6.ucsd.edu
-'''
+```
 - replace the <unique identifier> with the coresonding letters from you previously found course specific account. (Note: the $ isn't part of the command, it only signifies a command)
 *If this is your first time connecting to the server you will likely recieve a message about authenticity of the host 'ieng6...' you can say yes to this message.
 When the SSH command is typed into the local computer terminal, it should look like the following:
