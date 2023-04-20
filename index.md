@@ -1,3 +1,5 @@
+# **Lab Report 1**
+
 # **Remote Access: SSH, accessing course specific account**
 ---
 1. **Installing IDE** (integrated development enviroment)
