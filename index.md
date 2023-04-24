@@ -36,4 +36,4 @@ This means that your remote computer is connected to the CSE basement, therefore
   ![Image](commandFromLab.png)
   ---
   - When completing the asignment I tried the following commands chosen from the lab write up suggestions:
-  ![Image](https://github.com/st3llaa/cse15l-lab-reports/blob/4337cf6214ef5273fb95fb82a963089f3d46429a/Screenshot%202023-04-06%20at%208.58.15%20AM.png)
+  ![Image](ExampleCommands.png)
