@@ -1,7 +1,6 @@
-# **Lab Report 1**
+# Lab Report 1
+## Remote Access: SSH, accessing course specific account
 
-# **Remote Access: SSH, accessing course specific account**
----
 1. **Installing IDE** (integrated development enviroment)
 In this class we use Visual Code Studio (VScode) as our IDE. To install, following the instructions on the [VSCode website](https://code.visualstudio.com/). 
 Installation differs depending on operating system (windows --> PCs, macOS --> macs). After downloading, open the application. The windown should look like the one below:
@@ -28,12 +27,9 @@ When the SSH command is typed into the VScode terminal, it should look like the 
 ![Image](SSHVSTerminal.png)
 This means that your remote computer is connected to the CSE basement, therefore commands run on your computer terminal will be run on that CSE basement computer. Your computer is the **client** and the CSE basement computer is the **server** based on the above connection.
   
-  # Running Commands
-  ---
-  
-  - Next we will try running some commands in the terminal. Here are some listed to try:
-  ![Image](commands.png)
-  ![Image](commandFromLab.png)
-  ---
-  - When completing the asignment I tried the following commands chosen from the lab write up suggestions:
-  ![Image](ExampleCommands.png)
+## Running Commands
+- Next we will try running some commands in the terminal. Here are some listed to try:
+![Image](commands.png)
+![Image](commandFromLab.png)
+- When completing the asignment I tried the following commands chosen from the lab write up suggestions:
+![Image](ExampleCommands.png)
